@@ -94,14 +94,6 @@ python visualizza_previsioni_reali.py
 - **Giorno migliore**: Sabato
 - **Giorno peggiore**: Lunedì
 
-## 🔧 Configurazione Avanzata
-
-Per sviluppatori e utenti avanzati, consulta la **[README_TECNICO.md](README_TECNICO.md)** che include:
-
-- ⚙️ Configurazione avanzata del modello
-- 🧪 Testing e debug
-- 📊 Analisi avanzata
-- 🔄 Mantenimento e aggiornamenti
 
 ## 🔍 Troubleshooting
 
@@ -120,30 +112,6 @@ Per sviluppatori e utenti avanzati, consulta la **[README_TECNICO.md](README_TEC
    - Chiudi altre applicazioni
    - Riduci il numero di alberi nel modello
 
-## 🤝 Contributi
-
-Siamo aperti a contributi! Per contribuire:
-
-1. Fork del repository
-2. Crea un branch per la tua feature
-3. Implementa i miglioramenti
-4. Testa le modifiche
-5. Submit pull request
-
-## 📄 Licenza
-
-Questo progetto è rilasciato sotto licenza MIT. Vedi il file [LICENSE](LICENSE) per i dettagli.
-
-## 📞 Supporto
-
-- **Issues**: [GitHub Issues](https://github.com/emanuelediluzio/previsione_mercati/issues)
-- **Documentazione**: README files
-- **Community**: Forum tecnici
-
-## 🙏 Ringraziamenti
-
-- **Comunità open source** per gli strumenti utilizzati
-- **Famiglia e amici** per il supporto
 
 ---
 
