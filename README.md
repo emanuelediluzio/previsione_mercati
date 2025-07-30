@@ -113,8 +113,3 @@ python visualizza_previsioni_reali.py
    - Riduci il numero di alberi nel modello
 
 
----
-
-**"Ogni cosa che fate, fatela di cuore, come per il Signore e non per gli uomini"** - Colossesi 3:23
-
-**Buon lavoro!**
